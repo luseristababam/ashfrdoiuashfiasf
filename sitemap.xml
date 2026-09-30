@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://stariptv.co/stariptvgiris/</loc>
+    <lastmod>2026-10-01T01:20:00+03:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://stariptv.co/stariptvgiris/bg.jpg</image:loc>
+      <image:title>STARSPORTS Canlı Maç İzle — Kesintisiz HD &amp; 4K Şifresiz Maç Yayınları</image:title>
+      <image:caption>Süper Lig, Şampiyonlar Ligi ve tüm dünya futbolu canlı maç yayınları</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://stariptv.co/stariptvgiris/player_left.png</image:loc>
+      <image:title>STARSPORTS Süper Lig Maçları</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://stariptv.co/</loc>
+    <lastmod>2026-10-01T01:20:00+03:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

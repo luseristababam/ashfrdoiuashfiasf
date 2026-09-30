@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Crawl Delay & High-Priority Discovery
+Crawl-delay: 0.5
+
+# Sitemaps
+Sitemap: https://stariptv.co/stariptvgiris/sitemap.xml
+Sitemap: https://stariptv.co/sitemap.xml
